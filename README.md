@@ -39,7 +39,7 @@
  - **Visualising Retail Store using Power BI**: Click [HERE](https://github.com/whoprashant7/Visualising-Retail-Store-using-Power-BI)
  
 
-
+<p>&nbsp;</p>
 
  📚**Courses and Certifications**📚
  
