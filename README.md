@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prashant Singh</h1>
+<h1 align="center">Hi 👋, I'm Prashant</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/03/cloudd.gif"> 
 
@@ -27,6 +27,12 @@
 
  <p>&nbsp;</p>
 
+👩‍💻**Projects on MS SQL**👩‍💻
+ 
+- **Querying a Large Relational Database in Ms Sql**: Click [HERE](https://github.com/whoprashant7/Querying-a-Large-Relational-Database-using-Ms-Sql)
+
+
+<p>&nbsp;</p>
 
  📚**Courses and Certifications**📚
  
