@@ -22,7 +22,7 @@
 - Microsoft SQL Server
 - Power BI
 - Microsoft Excel
-- Google Spreadsheet
+- Advance Excel/Google Sheets
 
 
  <p>&nbsp;</p>
