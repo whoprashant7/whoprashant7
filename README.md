@@ -30,7 +30,8 @@
 
  📚**Courses and Certifications**📚
  
- - Data Analytics for Business,IIT Madras by intelliPaat
+ - Data Analytics for Business, IIT Madras by intelliPaat
+ - The fundamentals of Digital Marketing by Google Digital Garage 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
