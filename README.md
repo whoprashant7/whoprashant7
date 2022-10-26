@@ -34,7 +34,7 @@
 
 <p>&nbsp;</p>
 
-⚡**Projects on Power BI**⚡
+⚡**Projects in Power BI**⚡
  
  - **Visualising Retail Store using Power BI**: Click [HERE](https://github.com/whoprashant7/Visualising-Retail-Store-using-Power-BI)
  
